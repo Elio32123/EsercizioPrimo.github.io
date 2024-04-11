@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il mio portafoglio</title>
+</head>
+<body>
+    <header>
+        <h1>Il mio portafoglio</h1>
+    </header>
+    
+    <section>
+        <h2>Progetti</h2>
+        <ul>
+            <li>
+                <h3>Progetto 1</h3>
+                <p>Descrizione del Progetto 1</p>
+            </li>
+            <li>
+                <h3>Progetto 2</h3>
+                <p>Descrizione del Progetto 2</p>
+            </li>
+            <li>
+                <h3>Progetto 3</h3>
+                <p>Descrizione del Progetto 3</p>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Esperienza Lavorativa</h2>
+        <ul>
+            <li>
+                <h3>Lavoro 1</h3>
+                <p>Descrizione del Lavoro 1</p>
+            </li>
+            <li>
+                <h3>Lavoro 2</h3>
+                <p>Descrizione del Lavoro 2</p>
+            </li>
+            <li>
+                <h3>Lavoro 3</h3>
+                <p>Descrizione del Lavoro 3</p>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Il mio portafoglio</p>
+    </footer>
+</body>
+</html>
